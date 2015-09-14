@@ -10,5 +10,8 @@ import Foundation
 
 class MapForItenary {
 
+    func fakeMethod(){
+        printf("Discarding changes allow you to get the latest revision you have worked on")
+    }
     
 }
