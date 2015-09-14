@@ -13,6 +13,7 @@
 		68281EB01BA70E68003E0FDF /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 68281EAF1BA70E68003E0FDF /* Images.xcassets */; };
 		68281EB31BA70E68003E0FDF /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 68281EB11BA70E68003E0FDF /* LaunchScreen.xib */; };
 		68281EBF1BA70E68003E0FDF /* gitUseExampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68281EBE1BA70E68003E0FDF /* gitUseExampleTests.swift */; };
+		68281EC91BA71347003E0FDF /* MapForItenary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68281EC81BA71347003E0FDF /* MapForItenary.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		68281EB81BA70E68003E0FDF /* gitUseExampleTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = gitUseExampleTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		68281EBD1BA70E68003E0FDF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		68281EBE1BA70E68003E0FDF /* gitUseExampleTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = gitUseExampleTests.swift; sourceTree = "<group>"; };
+		68281EC81BA71347003E0FDF /* MapForItenary.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MapForItenary.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				68281EA81BA70E68003E0FDF /* AppDelegate.swift */,
 				68281EAA1BA70E68003E0FDF /* ViewController.swift */,
 				68281EAC1BA70E68003E0FDF /* Main.storyboard */,
+				68281EC81BA71347003E0FDF /* MapForItenary.swift */,
 				68281EAF1BA70E68003E0FDF /* Images.xcassets */,
 				68281EB11BA70E68003E0FDF /* LaunchScreen.xib */,
 				68281EA61BA70E68003E0FDF /* Supporting Files */,
@@ -212,6 +215,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				68281EC91BA71347003E0FDF /* MapForItenary.swift in Sources */,
 				68281EAB1BA70E68003E0FDF /* ViewController.swift in Sources */,
 				68281EA91BA70E68003E0FDF /* AppDelegate.swift in Sources */,
 			);
